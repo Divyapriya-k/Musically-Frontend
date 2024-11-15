@@ -11,12 +11,14 @@ const Navbar = () => {
                 <center>
            <h1 class="hover:shadow-md h-14 max-w-96 bg-gray-400 rounded-2xl text-right p-3 ">🔍&nbsp;</h1>
            </center>
-            <nav class="text-blue-900 p-12 space-x-64 font-bold text-3xl">
+            <nav class="text-center space-x-56 text-3xl text-blue-900 font-semibold">
                 <Link to="/" class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="#" className="hover:text-blue-500 hover:shadow-md">Home</a></Link> 
+                <Link to="/Login"><a href="#" className="hover:text-blue-500 hover:shadow-md">Login</a></Link>
                 <Link to="/playlist"><a href="#" className="hover:text-blue-500 hover:shadow-md">Playlist</a></Link>
-                <Link to="/about"> <a href="#" className="hover:text-blue-500 hover:shadow-md">About Us</a></Link>
-                <Link to="/contact"><a href="#" className="hover:text-blue-500 hover:shadow-md">Contact Us</a></Link>
+                <Link to="/about"> <a href="#" className="hover:text-blue-500 hover:shadow-md">About</a></Link>
+                <Link to="/contact"><a href="#" className="hover:text-blue-500 hover:shadow-md">Contact </a></Link>
+                
                <br/><br/> <br/>
             </nav>
             
