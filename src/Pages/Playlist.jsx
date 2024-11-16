@@ -231,6 +231,42 @@ const Playlist = () => {
       imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
     },
     //song25 ended
+    {
+      id: 26,
+      title: 'Machi-Open-The-Bottle',
+      musicby: ' 🎵Musicby 	Sid sriram',
+      moviename:'🎥 Movie Geetha govintham-2018',
+      url: '/public/Machi-Open-The-Bottle.mp3',
+      imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
+    },
+    //song26 ended
+    {
+      id: 27,
+      title: 'Mayya-Mayya',
+      musicby: ' 🎵Musicby 	Sid sriram',
+      moviename:'🎥 Movie Geetha govintham-2018',
+      url: '/public/Mayya-Mayya.mp3',
+      imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
+    },
+    //song27 ended
+    {
+      id: 28,
+      title: 'Mazhai-Vara-Pogudhe',
+      musicby: ' 🎵Musicby 	Sid sriram',
+      moviename:'🎥 Movie Geetha govintham-2018',
+      url: '/public/Mazhai-Vara-Pogudhe.mp3',
+      imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
+    },
+    //song28 ended
+    {
+      id: 29,
+      title: 'Partha-Muthal',
+      musicby: ' 🎵Musicby 	Sid sriram',
+      moviename:'🎥 Movie Geetha govintham-2018',
+      url: '/public/Partha-Muthal.mp3',
+      imageUrl: 'https://tse1.mm.bing.net/th?id=OIP.-qoAOD88HUBjM475sjlx-AHaHa&pid=Api&P=0&h=180',
+    },
+    //song29 ended
     
     
 
