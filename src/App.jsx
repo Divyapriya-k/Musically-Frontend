@@ -7,7 +7,7 @@ import Contact from './Pages/Contact';
 import Home from './Pages/Home';
 import PageNotFound from './Pages/PageNotFound';
 import Playlist from './Pages/Playlist';
-import LoginPage from './Components/LoginPage';
+
 
 
 
@@ -20,7 +20,7 @@ const App = () => {
       <Route path='/about' element={<About/>}/>
       <Route path='/contact' element={<Contact/>}/>
         <Route path='/playlist' element={<Playlist/>}/>
-        <Route path='login'element={<LoginPage/>}/>
+      
       <Route path='*' element={<PageNotFound/>}/>
     </Routes>
     <Footer/>
